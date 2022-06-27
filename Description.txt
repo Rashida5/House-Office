@@ -1,0 +1,5 @@
+simple console c++ project using oop (File based)
+Housing office is desktop appliction use th save the Real estate imformation 
+Project based on two Property
+1-Get information from User about information need to sell
+2-Help Customer how need to buy new house by using filtertion opertions on data obout Real estate available
